@@ -9,18 +9,21 @@ This Bootstrap App code is the companion for the following Tutorial:
 
 
 
-<img border="0" height="640" src="http://1.bp.blogspot.com/-NKgRKN__wCA/VW1VSGI0DiI/AAAAAAAALD4/4_ko7J_LL8Q/s640/1.png" width="374" />
-
-<img border="0" height="640" src="http://4.bp.blogspot.com/-sZDpKHYxJDA/VW1VTTcAi0I/AAAAAAAALEk/ZBawGJk93eM/s640/3.png" width="380" />
-
-<img border="0" height="548" src="http://1.bp.blogspot.com/-SVmwteB_uuY/VW1VTFrBkDI/AAAAAAAALEs/D7cyTGCzYSo/s640/2.png" width="640" />
+<img alt="Bootstrap Carousel Slideshows       " border="0" height="544" src="http://2.bp.blogspot.com/-3Lyl2Kv02U8/VXlFwKlk2rI/AAAAAAAALPk/KMggeQb9cBw/s540/3.png" width="540" />
 
 
-<img border="0" height="316" src="http://2.bp.blogspot.com/-qWHNYEWWeGs/VW1VTSRv54I/AAAAAAAALEg/83Zsq83G-tk/s640/4.png" width="640" />
+<img alt="Bootstrap Carousel      " border="0" height="522" src="http://2.bp.blogspot.com/-vnC0Nd8FNT0/VXlFxLkMzeI/AAAAAAAALPY/QvMLKxhR05c/s540/4.png" width="540" />
 
-<img border="0" height="366" src="http://4.bp.blogspot.com/-5OaO1dn7Pa4/VW1VUANvSfI/AAAAAAAALEQ/VplJ0Ix0hL0/s640/5.png" width="640" />
 
-<img border="0" height="358" src="http://2.bp.blogspot.com/-ncfMvLhUsZs/VW1VUXMsLNI/AAAAAAAALEU/CkmUqsQ-4iI/s640/6.png" width="640" />
+<img alt="Bootstrap        " border="0" height="540" src="http://2.bp.blogspot.com/-jg9JX0P_R1E/VXlFxCgMZtI/AAAAAAAALPc/4BSylP-J-KA/s540/5.png" width="358" />
+
+<img alt=" Carousel Slideshows Ajax JSON loaded with jQuery       " border="0" height="256" src="http://4.bp.blogspot.com/-1VMNsX-nn_k/VXlFuuJJ0_I/AAAAAAAALPs/8HUY6os7xEI/s540/1.png" width="540" />
+
+
+<img alt="Slideshows Ajax JSON loaded with jQuery       " border="0" height="382" src="http://4.bp.blogspot.com/-hNXvVIxWA1U/VXlFwCfi5nI/AAAAAAAALPA/HFDTtviG2EY/s540/2.png" width="540" />
+
+
+
 
 
 </a>
